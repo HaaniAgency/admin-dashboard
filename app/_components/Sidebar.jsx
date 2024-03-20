@@ -11,7 +11,7 @@ const Sidebar = ({ children }) => {
         <div className="flex flex-col items-center">
           <Image
             className="rounded-lg"
-            src="/face.jpg"
+            src="https://idsb.tmgrup.com.tr/ly/uploads/images/2023/11/14/301015.jpg"
             width={40}
             height={40}
           />
